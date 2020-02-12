@@ -218,7 +218,7 @@ header{
   /* Cards! */
   .card {
     -ms-flex-preferred-size: 225px;
-    flex-basis: 225px
+    flex-basis: 250px
   }
 
   .card_big{
